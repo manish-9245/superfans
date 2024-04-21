@@ -1,3 +1,7 @@
+/**
+ * Creates a Supabase client for browser-side usage.
+ * @returns The Supabase client instance.
+ */
 import { createBrowserClient } from "@supabase/ssr"
 import { Database } from "../types/supabase"
 export function supabaseBrowser() {

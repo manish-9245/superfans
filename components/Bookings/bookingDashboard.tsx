@@ -5,6 +5,9 @@ import useUser from "@/app/hook/useUser";
 import { useEffect, useState } from "react";
 import Image from "next/image";
 
+/**
+ * Represents a booking object.
+ */
 export type Bookings = {
   amount: number;
   dueDate: string;
