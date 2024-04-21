@@ -20,6 +20,8 @@
 ## Environment
 Refer **env-example.txt** and create a **.env.local** file
 
+## Docs
+Added JS Docs for all components, so when you hover on any imported component you exactly know what it is:)
 ## Folder Structure
 ### App
 ```
